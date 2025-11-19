@@ -1,2 +1,2 @@
-# Sistema-Logico-de-Orientacaoo-Profissional-Baseado-em-Competencias-Futuras
+# Sistema-Logico-de-Orientacao-Profissional-Baseado-em-Competencias-Futuras
 O projeto aborda o desafio atual de escolher uma profissão devido à multiplicidade de capacidades e talentos das pessoas. Para solucionar isso, foi criado um sistema que utiliza essa mesma lógica para identificar e valorizar os pontos fortes do indivíduo, oferecendo-lhe a resposta profissional de que precisa.
