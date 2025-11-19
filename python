@@ -1,0 +1,31 @@
+print("Bem-vindo ao Sistema Lógico de Orientação Profissional Baseado em Competências Futuras")
+
+"""
+Interesse em tecnologia (T)
+Aptidão analítica (A)
+Criatividade (C)
+Afinidade com pessoas (P)"""
+
+print("\nDigite: \t\n 0 para sem habilidade \t\n 1 para tenho habilidade.")
+
+#Coletando as variáveis
+
+T = int(input("Interesse em tecnologia: "))
+A = int(input("Aptidão Analítica: "))
+C = int(input("Criatividade: "))
+P = int(input("Afinidade com pessoas: "))
+
+#fazendo as expressões
+
+if T and A:
+    print("Você combina com Desenvolvimento!")
+elif T and C:
+    print("Você combina com Design Digital!")
+elif A and C:
+    print("Você combina com Ciência de Dados!")
+elif A and C and P:
+    print("Você combina com Gestão de Projetos")
+elif T and A and C:
+    print("Você combina com Inteligência Artificial!")
+else:
+    print("Você combina com outros.")
